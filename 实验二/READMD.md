@@ -120,18 +120,3 @@ fun task(): List<Boolean> {
 | by lazy | 标准库提供，线程安全的惰性初始化，仅首次访问执行 |
 | 属性委托 | 封装 get/set 逻辑，解耦属性与存储/转换逻辑 |
 | 带接收者函数 | 接收者作为 this，支持扩展式调用，简化语法 |
-## 六、上传与操作说明
-将本 README.md 及相关代码文件放入本地仓库后，执行以下命令上传至 Gitee main 分支：
-```bash
-# 暂存所有文件
-git add .
-
-# 提交备注
-git commit -m "feat: 新增 Kotlin 算法与语法练习及 README 文档"
-
-# 推送至远程 main 分支
-git push origin main
-```
-⚠️ 注意：若本地分支与远程不一致，先执行 `git pull origin main --allow-unrelated-histories` 同步后再推送。
----
-更新时间：2026-05-03
