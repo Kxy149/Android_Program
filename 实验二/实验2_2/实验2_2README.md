@@ -11,7 +11,7 @@
 ## 一、实验目的
 
 >>>>>>> 00a2ba4391302f1dda9e3629905f85c42ca882b0
-1. 掌握 Jetpack Compose 声明式 UI 编程模型
+1. 掌握 Jetpack Compose 声明式 UI编程模型
 2. 熟悉常用布局组件：`Column`、`Row`、`Box`、`LazyColumn`、`LazyRow`
 3. 掌握 Material3 组件库中常用交互控件的使用
 4. 理解 Compose 中的状态管理（`remember` + `mutableStateOf`）
