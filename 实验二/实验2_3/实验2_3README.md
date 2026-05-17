@@ -15,8 +15,8 @@
 ## 技术栈
 
 - **语言**：Java
-- **最低 SDK**：Android 5.0 (API 21)
-- **目标 SDK**：Android 14 (API 36)
+- **最低 SDK**：Android  5.0 (API 21)
+- **目标 SDK**：Android  14 (API 36)
 - **核心依赖**：
   - `androidx.camera:camera-core:1.3.4`
   - `androidx.camera:camera-camera2:1.3.4`
