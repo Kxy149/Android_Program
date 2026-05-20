@@ -62,10 +62,4 @@ python "%matplotlib inline.py"
 | 双轴趋势图 | 柱状图（总收入）+ 折线图（总利润），按年汇总 |
 | 利润率直方图 | 利润/收入分布，红线标记中位数 |
 
-## 文件结构
 
-```
-实验三/
-├── %matplotlib inline.py   # 主程序
-└── README.md               # 本文件
-```
