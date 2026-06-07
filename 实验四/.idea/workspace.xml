@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d78b40d-5cec-4472-aa9f-ec253437af20" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/../sy_4/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/6.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/6.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/6.7.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/6.7.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/6.7.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/6.7.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/6.7.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/6.7.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/7.5/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/7.5/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/7.5/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/7.5/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/7.5/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/7.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/7.5/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/7.5/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/7.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/8.5/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/8.5/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/8.5/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/8.5/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/8.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/8.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/9.0-milestone-1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/9.0-milestone-1/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/9.0-milestone-1/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/9.0-milestone-1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/9.0-milestone-1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/9.0-milestone-1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/9.0-milestone-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/deviceManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/markdown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/modules/start/TFL_Classify.start.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/java/org/tensorflow/lite/examples/classification/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/java/org/tensorflow/lite/examples/classification/ui/RecognitionAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/java/org/tensorflow/lite/examples/classification/util/YuvToRgbConverter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/java/org/tensorflow/lite/examples/classification/viewmodel/RecognitionViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/ml/FlowerModel.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/drawable-xxhdpi/tfl2_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/layout/recognition_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/finish/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/java/org/tensorflow/lite/examples/classification/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/java/org/tensorflow/lite/examples/classification/ui/RecognitionAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/java/org/tensorflow/lite/examples/classification/util/YuvToRgbConverter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/java/org/tensorflow/lite/examples/classification/viewmodel/RecognitionViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/ml/FlowerModel.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/drawable-xxhdpi/tfl2_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/layout/recognition_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/TFLClassify/start/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/完成项目TODO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/屏幕截图 2026-05-27 215452.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/屏幕截图 2026-05-27 221859.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy_4/添加tflite模型.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kxy149&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kxy149/Android_Program.git&quot;,
+    &quot;accountId&quot;: &quot;bae42555-e581-4a17-8427-c1611eebc60c&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3EHt920YRCM0kNNLeLWDcIm3XNX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ASUS/Documents/GitHub/Android_Program/实验四",
+    "settings.editor.selected.configurable": "http.proxy"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d78b40d-5cec-4472-aa9f-ec253437af20" name="Changes" comment="" />
+      <created>1779847167930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779847167930</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1779847917350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779847917350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+</project>
