@@ -1,44 +1,37 @@
-# Recogonize Flowers with TensorFLow Lite Model Maker and Android Studio ML Model Binding
+# 使用 TensorFlow Lite Model Maker 和 Android Studio ML Model Binding 识别花朵
 
-This folder contains the code for the TensorFlow Lite codelab:
+本文件夹包含 TensorFlow Lite 实验教程的代码：
 
-* [Recognize Flowers with TensorFlow on Android (Beta)](https://goo.gle/3dbCSbt)
+* [在 Android 上使用 TensorFlow 识别花朵（Beta）](https://goo.gle/3dbCSbt)
 
-## Introduction
+## 简介
 
-This beta codelab introduces the latest tooling using TensorFlow Lite Model Maker and Android Studio 4.1 Beta 1 or above. In addition, it will require access to a physical Android device to test. If you prefer to use the stable version of this codelab, follow this codelab instead.
+本 Beta 版实验教程介绍如何使用 TensorFlow Lite Model Maker 以及 Android Studio 4.1 Beta 1 或更高版本中的相关工具。测试应用时需要一台真实 Android 设备。如果你希望使用稳定版教程，可以参考对应的稳定版 codelab。
 
-In these codelabs, you will learn:
+通过本实验，你将学习：
 
-*   How to train your own custom image classifier using [TensorFlow Lite Model Maker](https://www.tensorflow.org/lite/tutorials/model_maker_image_classification).
-*   How to use Android Studio to import the TensorFlow Lite model to integrate the custom model in an Android app using CameraX.
-*   How to use GPU on your phone to accelerate your model.
+* 如何使用 [TensorFlow Lite Model Maker](https://www.tensorflow.org/lite/tutorials/model_maker_image_classification) 训练自定义图像分类器。
+* 如何在 Android Studio 中导入 TensorFlow Lite 模型，并结合 CameraX 将自定义模型集成到 Android 应用中。
+* 如何在手机上使用 GPU 加速模型推理。
 
+## 环境要求
 
-## Pre-requisites
+[Android Studio 4.1 Beta 1 或更高版本](http://developers.android.com/studio/preview)
 
-[Android Studio 4.1 Beta 1 or above](http://developers.android.com/studio/preview)
+## 开始使用
 
-## Getting Started
+请访问 Google Codelabs 网站，按照教程步骤完成实验。
 
-Visit the Google codelabs site to follow along the guided steps.
-
-## Support
+## 支持
 
 - Stack Overflow: https://stackoverflow.com/questions/tagged/tensorflow-lite+android-studio
 
-## License
+## 许可证
 
- Copyright (C) 2020 The Android Open Source Project
- 
- Licensed under the Apache License, Version 2.0 (the "License");
- you may not use this file except in compliance with the License.
- You may obtain a copy of the License at
+Copyright (C) 2020 The Android Open Source Project
+
+本项目遵循 Apache License, Version 2.0。除非符合许可证要求，否则不得使用本文件。你可以在以下地址获取许可证副本：
 
 http://www.apache.org/licenses/LICENSE-2.0
- 
- Unless required by applicable law or agreed to in writing, software
- distributed under the License is distributed on an "AS IS" BASIS,
- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- See the License for the specific language governing permissions and
- limitations under the License.
+
+除非适用法律要求或书面同意，基于本许可证分发的软件均按“原样”提供，不附带任何明示或暗示的担保或条件。有关权限和限制的详细说明，请参阅许可证内容。
