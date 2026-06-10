@@ -1,37 +1,75 @@
-# 使用 TensorFlow Lite Model Maker 和 Android Studio ML Model Binding 识别花朵
+# 实验四：TensorFlow Lite 花朵识别应用
 
-本文件夹包含 TensorFlow Lite 实验教程的代码：
+本项目是一个基于 TensorFlow Lite、Android Studio ML Model Binding 和 CameraX 的实时图像分类应用。应用会调用手机摄像头采集画面，并使用 `FlowerModel.tflite` 对画面中的花朵进行分类识别。
 
-* [在 Android 上使用 TensorFlow 识别花朵（Beta）](https://goo.gle/3dbCSbt)
+## 项目功能
 
-## 简介
+- 使用 CameraX 打开摄像头并实时获取图像帧。
+- 使用 TensorFlow Lite 模型进行端侧推理。
+- 通过 Android Studio ML Model Binding 自动生成模型调用代码。
+- 在界面中展示置信度最高的识别结果。
+- 支持真机运行和调试。
 
-本 Beta 版实验教程介绍如何使用 TensorFlow Lite Model Maker 以及 Android Studio 4.1 Beta 1 或更高版本中的相关工具。测试应用时需要一台真实 Android 设备。如果你希望使用稳定版教程，可以参考对应的稳定版 codelab。
+## 项目结构
 
-通过本实验，你将学习：
+```text
+TFLClassify/
+├── start/                  # 实验实现模块，主要运行这个模块
+│   └── src/main/
+│       ├── java/           # CameraX、模型推理和结果展示代码
+│       ├── ml/             # FlowerModel.tflite 模型文件
+│       └── res/            # 布局、主题和字符串资源
+├── finish/                 # 参考完成模块
+├── build.gradle            # 根项目 Gradle 配置
+├── settings.gradle         # 模块配置
+└── README.md               # 项目说明
+```
 
-* 如何使用 [TensorFlow Lite Model Maker](https://www.tensorflow.org/lite/tutorials/model_maker_image_classification) 训练自定义图像分类器。
-* 如何在 Android Studio 中导入 TensorFlow Lite 模型，并结合 CameraX 将自定义模型集成到 Android 应用中。
-* 如何在手机上使用 GPU 加速模型推理。
+## 核心文件
+
+- `start/src/main/ml/FlowerModel.tflite`：花朵分类 TensorFlow Lite 模型。
+- `start/src/main/java/org/tensorflow/lite/examples/classification/MainActivity.kt`：主界面、摄像头预览、图像分析和模型推理入口。
+- `start/src/main/java/org/tensorflow/lite/examples/classification/ui/RecognitionAdapter.kt`：识别结果列表适配器。
+- `start/src/main/java/org/tensorflow/lite/examples/classification/viewmodel/RecognitionListViewModel.kt`：保存并刷新识别结果。
+- `start/src/main/res/layout/activity_main.xml`：摄像头预览与结果列表界面。
+- `start/build.gradle`：应用模块依赖配置，已启用 `mlModelBinding`。
 
 ## 环境要求
 
-[Android Studio 4.1 Beta 1 或更高版本](http://developers.android.com/studio/preview)
+- Android Studio
+- JDK 8 或更高版本
+- Android SDK，项目当前 `compileSdk` 为 34
+- 一台支持摄像头的 Android 真机或模拟器
 
-## 开始使用
+## 运行方式
 
-请访问 Google Codelabs 网站，按照教程步骤完成实验。
+在 Android Studio 中打开 `TFLClassify` 项目，然后选择 `start` 模块运行。
 
-## 支持
+也可以在命令行中进入项目目录后执行：
 
-- Stack Overflow: https://stackoverflow.com/questions/tagged/tensorflow-lite+android-studio
+```powershell
+.\gradlew.bat :start:assembleDebug
+```
 
-## 许可证
+构建成功后，APK 位于：
 
-Copyright (C) 2020 The Android Open Source Project
+```text
+start/build/outputs/apk/debug/start-debug.apk
+```
 
-本项目遵循 Apache License, Version 2.0。除非符合许可证要求，否则不得使用本文件。你可以在以下地址获取许可证副本：
+## 使用说明
 
-http://www.apache.org/licenses/LICENSE-2.0
+1. 将应用安装到 Android 设备。
+2. 首次启动时允许摄像头权限。
+3. 将摄像头对准花朵图片或实物。
+4. 应用会在底部列表中实时显示识别类别和置信度。
 
-除非适用法律要求或书面同意，基于本许可证分发的软件均按“原样”提供，不附带任何明示或暗示的担保或条件。有关权限和限制的详细说明，请参阅许可证内容。
+## 实验要点
+
+本实验重点在于掌握 TensorFlow Lite 模型在 Android 端的集成流程，包括模型导入、ML Model Binding 自动生成接口、CameraX 图像流处理，以及将推理结果展示到 RecyclerView 中。
+
+## 参考资料
+
+- [TensorFlow Lite Image Classification](https://www.tensorflow.org/lite/examples/image_classification/overview)
+- [CameraX 官方文档](https://developer.android.com/media/camera/camerax)
+- [Android Studio ML Model Binding](https://developer.android.com/studio/preview/features#tensor-flow-lite-models)
